@@ -8,7 +8,7 @@
     <author email="01ankitsrivastava@gmail.com" href="http://phonegap.com">
         Aakash Srivastava
     </author>
-    <content src="index.html" />
+    <content src="www/index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
